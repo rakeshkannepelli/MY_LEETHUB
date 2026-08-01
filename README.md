@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0001-two-sum) |
 | [2974-minimum-number-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2974-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
