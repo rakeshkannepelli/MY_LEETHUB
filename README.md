@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0015-3sum) |
 | [2974-minimum-number-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0015-3sum) |
 | [2974-minimum-number-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
