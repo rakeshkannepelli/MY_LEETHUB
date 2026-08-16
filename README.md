@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0066-plus-one) |
 | [2974-minimum-number-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
