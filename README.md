@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0584-find-customer-referee) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1789-primary-department-for-each-employee](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1789-primary-department-for-each-employee) |
