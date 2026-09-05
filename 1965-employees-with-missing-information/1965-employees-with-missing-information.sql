@@ -1,5 +1,9 @@
 # Write your MySQL query statement below
-(SELECT employee_id FROM Employees EXCEPT SELECT employee_id FROM Salaries)
+SELECT Employees.employee_id FROM Employees 
+LEFT JOIN Salaries ON Salaries.employee_id = Employees.employee_id
+WHERE Salaries.employee_id IS NULL
 UNION
-(SELECT employee_id FROM Salaries EXCEPT SELECT employee_id FROM Employees)
+SELECT Salaries.employee_id FROM Salaries
+LEFT JOIN Employees ON Employees.employee_id = Salaries.employee_id
+WHERE Employees.employee_id IS NULL
 ORDER BY employee_id ASC;
