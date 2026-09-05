@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1068-product-sales-analysis-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1789-primary-department-for-each-employee](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1789-primary-department-for-each-employee) |
+| [1965-employees-with-missing-information](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1965-employees-with-missing-information) |
 ## Array
 |  |
 | ------- |
