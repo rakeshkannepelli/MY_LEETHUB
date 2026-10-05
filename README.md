@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0066-plus-one) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0657-robot-return-to-origin) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
 | ------- |
