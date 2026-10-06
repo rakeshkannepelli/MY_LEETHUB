@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1633-percentage-of-users-attended-a-contest) |
