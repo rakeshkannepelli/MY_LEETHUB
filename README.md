@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1068-product-sales-analysis-i) |
+| [1211-queries-quality-and-percentage](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1484-group-sold-products-by-the-date) |
