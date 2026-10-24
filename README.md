@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0058-length-of-last-word) |
 | [0657-robot-return-to-origin](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0657-robot-return-to-origin) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/3019-number-of-changing-keys) |
 ## Sliding Window
 |  |
 | ------- |
