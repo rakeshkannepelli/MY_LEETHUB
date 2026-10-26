@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0066-plus-one) |
+| [0682-baseball-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0682-baseball-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2974-minimum-number-game) |
 ## Sorting
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/1486-xor-operation-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/rakeshkannepelli/MY_LEETHUB/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
